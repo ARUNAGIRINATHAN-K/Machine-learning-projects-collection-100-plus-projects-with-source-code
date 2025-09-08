@@ -26,11 +26,11 @@ Projects are divided into **Beginner** and **Advanced** levels so learners can p
 
 ---
 
-| **Level**   | **Category**                              | **Project**                                                   |
-| ----------- | ----------------------------------------- | ------------------------------------------------------------- |
-| 🟢 Beginner | **Text & Image Processing**               | Detecting Spam Emails                                         |
-|             |                                           | SMS Spam Detection                                            |
-|             |                                           | Classification of Text Documents                              |
+| **Level**    | **Category**                              | **Project**                                                   |
+| -----------  | ----------------------------------------- | ------------------------------------------------------------- |
+| 🟢 Beginner  | **Text & Image Processing**               | Detecting Spam Emails                                         |
+|              |                                           | SMS Spam Detection                                            |
+|              |                                           | Classification of Text Documents                              |
 |             |                                           | Classify Handwritten Digits                                   |
 |             |                                           | OCR of Handwritten Digits                                     |
 |             |                                           | Recognizing Handwritten Digits                                |
