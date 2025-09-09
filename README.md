@@ -1,4 +1,4 @@
-# 📘 Machine Learning Project Ideas
+# 📘 Practical Machine Learning Projects Collection — 100+ Projects with Source Code 
 
 ![Repo Size](https://img.shields.io/github/repo-size/Code-master31/Machine-learning-projects-collection-100-plus-projects-with-source-code?logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/Code-master31/Machine-learning-projects-collection-100-plus-projects-with-source-code?logo=git)
