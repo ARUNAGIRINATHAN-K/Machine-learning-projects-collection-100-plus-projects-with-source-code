@@ -1,10 +1,20 @@
 # 📘 Machine Learning Project Ideas
 
-![Stars](https://img.shields.io/github/stars/Code-master31/100-Machine-Learning-Projects?style=social)
-![Forks](https://img.shields.io/github/forks/Code-master31/100-Machine-Learning-Projects?style=social)
-![Issues](https://img.shields.io/github/issues/Code-master31/100-Machine-Learning-Projects)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-![License](https://img.shields.io/github/license/Code-master31/100-Machine-Learning-Projects)
+![Repo Size](https://img.shields.io/github/repo-size/Code-master31/Machine-learning-projects-collection-100-plus-projects-with-source-code?logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/Code-master31/Machine-learning-projects-collection-100-plus-projects-with-source-code?logo=git)
+![Languages](https://img.shields.io/github/languages/top/Code-master31/Machine-learning-projects-collection-100-plus-projects-with-source-code?logo=python)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/requests?logo=python&logoColor=white)
+![Conda](https://img.shields.io/badge/conda-env-yellowgreen?logo=anaconda&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/datasets-huggingface-orange?logo=huggingface&logoColor=white)
+![Datasets](https://img.shields.io/badge/datasets-Kaggle%2CUCI%2CHF-lightgrey?logo=kaggle&logoColor=blue)
+![Jupyter](https://img.shields.io/badge/notebooks-Jupyter-orange?logo=jupyter)
+![Coverage Status](https://img.shields.io/codecov/c/github/Code-master31/Machine-learning-projects-collection-100-plus-projects-with-source-code?branch=main&logo=codecov&logoColor=white)
+![Issues](https://img.shields.io/github/issues/Code-master31/Machine-learning-projects-collection-100-plus-projects-with-source-code?logo=github)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?logo=github)
+![License](https://img.shields.io/github/license/Code-master31/Machine-learning-projects-collection-100-plus-projects-with-source-code?logo=open-source-initiative&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Code-master31/Machine-learning-projects-collection-100-plus-projects-with-source-code?style=social&logo=github)
+![Forks](https://img.shields.io/github/forks/Code-master31/Machine-learning-projects-collection-100-plus-projects-with-source-code?style=social&logo=github)
+
 
 > 🚀 A curated collection of **Machine Learning project ideas** categorized by application areas and difficulty levels to help learners, researchers, and developers explore ML applications.
 
