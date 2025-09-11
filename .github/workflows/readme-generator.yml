@@ -16,13 +16,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@0ad4b8f736b64f5d0c8b0c9bdb40b24c2cfdd8e6
         with:
           fetch-depth: 0
           persist-credentials: true
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@13b22673d2b3a8df47e6a9a2cba3f6468b8990c4
         with:
           python-version: '3.x'
 
