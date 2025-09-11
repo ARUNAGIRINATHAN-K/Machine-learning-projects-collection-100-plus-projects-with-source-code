@@ -1,0 +1,32 @@
+name: Auto Generate Project README
+
+on:
+  push:
+    paths:
+      - "*/"   # Detect new folders
+      - "!**/README.md"
+
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run script
+        run: |
+          python .github/scripts/generate_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "ml-bot"
+          git config --global user.email "ml-bot@users.noreply.github.com"
+          git add .
+          git commit -m "🤖 Auto-generate README for new project"
+          git push
