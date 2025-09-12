@@ -137,7 +137,7 @@ Projects are divided into **Beginner** and **Advanced** levels so learners can p
 | 96 | Intrusion Detection System |[☝🏻]()|
 | 97 | License Plate Recognition |[☝🏻]()|
 | 98 | Car License Plate Detection & Recognition |[☝🏻]()|
-| 99 | [Age Detection](./projects/age-detection) |[☝🏻]()|
+| 99 | Age Detection |[☝🏻]()|
 | 100 | Face & Hand Landmarks Detection |[☝🏻]()|
 | 101 | Human Activity Recognition |[☝🏻]()|
 | 102 | Sequential Model with Abalone Dataset |[☝🏻]()|
