@@ -71,74 +71,74 @@ Projects are divided into **Beginner** and **Advanced** levels so learners can p
 | 30 | Customer Segmentation |[☝🏻]()|
 | 31 | Analyzing Selling Price of Used Cars |[☝🏻]()|
 | 32 | Box Office Revenue Prediction |[☝🏻]()|
-| 33 | [Flipkart Reviews Sentiment Analysis](./projects/flipkart-reviews-sentiment-analysis) |[☝🏻]()|
-| 34 | [Click-Through Rate Prediction](./projects/click-through-rate-prediction) |[☝🏻]()|
-| 35 | [Loan Approval Prediction using ML Models](./projects/loan-approval-prediction) |[☝🏻]()|
-| 36 | [Loan Eligibility Prediction using SVM](./projects/loan-eligibility-prediction-svm) |[☝🏻]()|
-| 37 | [House Price Prediction](./projects/house-price-prediction) |[☝🏻]()|
-| 38 | [Boston Housing Prediction](./projects/boston-housing-prediction) |[☝🏻]()|
-| 39 | [Employee Management System](./projects/employee-management-system) |[☝🏻]()|
-| 40 | [Disease Prediction](./projects/disease-prediction) |[☝🏻]()|
-| 41 | [Heart Disease Prediction using Logistic Regression](./projects/heart-disease-logistic-regression) |[☝🏻]()|
-| 42 | [Prediction of Wine Type](./projects/wine-type-prediction) |[☝🏻]()|
-| 43 | [Parkinson’s Disease Prediction](./projects/parkinsons-disease-prediction) |[☝🏻]()|
-| 44 | [Breast Cancer Diagnosis using Logistic Regression](./projects/breast-cancer-logistic-regression) |[☝🏻]()|
-| 45 | [Cancer Cell Classification](./projects/cancer-cell-classification) |[☝🏻]()|
-| 46 | [Breast Cancer Diagnosis using KNN](./projects/breast-cancer-knn) |[☝🏻]()|
-| 47 | [Autism Prediction](./projects/autism-prediction) |[☝🏻]()|
-| 48 | [Medical Insurance Price Prediction](./projects/medical-insurance-price-prediction) |[☝🏻]()|
-| 49 | [Skin Cancer Detection](./projects/skin-cancer-detection) |[☝🏻]()|
-| 50 | [Heart Disease Prediction using ANN](./projects/heart-disease-ann) |[☝🏻]()|
-| 51 | [Predicting Air Quality Index](./projects/air-quality-index-prediction) |[☝🏻]()|
-| 52 | [Predicting Air Quality with Neural Networks](./projects/air-quality-nn) |[☝🏻]()|
-| 53 | [Titanic Survival Prediction](./projects/titanic-survival-prediction) |[☝🏻]()|
-| 54 | [Wine Quality Prediction](./projects/wine-quality-prediction) |[☝🏻]()|
-| 55 | [IPL Score Prediction using Deep Learning](./projects/ipl-score-prediction) |[☝🏻]()|
-| 56 | [Calories Burnt Prediction](./projects/calories-burnt-prediction) |[☝🏻]()|
-| 57 | [Vehicle Count Prediction from Sensor Data](./projects/vehicle-count-prediction) |[☝🏻]()|
-| 58 | [Ola Bike Ride Request Forecast](./projects/ola-ride-forecast) |[☝🏻]()|
-| 59 | [Rainfall Prediction](./projects/rainfall-prediction) |[☝🏻]()|
-| 60 | [Human Scream Detection & Analysis](./projects/human-scream-detection) |[☝🏻]()|
-| 61 | [Spaceship Titanic Project](./projects/spaceship-titanic) |[☝🏻]()|
-| 62 | [Inventory Demand Forecasting](./projects/inventory-demand-forecasting) |[☝🏻]()|
-| 63 | [Waiter’s Tip Prediction](./projects/waiters-tip-prediction) |[☝🏻]()|
-| 64 | [Fake News Detection](./projects/fake-news-detection) |[☝🏻]()|
-| 65 | [Fake News Detection Model](./projects/fake-news-detection-model) |[☝🏻]()|
-| 66 | [Predict Fuel Efficiency](./projects/fuel-efficiency-prediction) |[☝🏻]()|
-| 67 | [Multiclass Image Classification](./projects/multiclass-image-classification) |[☝🏻]()|
-| 68 | [Image Caption Generator](./projects/image-caption-generator) |[☝🏻]()|
-| 69 | [Face Mask Detection](./projects/face-mask-detection) |[☝🏻]()|
-| 70 | [Dog Breed Classification](./projects/dog-breed-classification) |[☝🏻]()|
-| 71 | [Flower Recognition](./projects/flower-recognition) |[☝🏻]()|
-| 72 | [Cat & Dog Classification using CNN](./projects/cat-dog-classification) |[☝🏻]()|
-| 73 | [Traffic Signs Recognition](./projects/traffic-sign-recognition) |[☝🏻]()|
-| 74 | [Residual Networks (ResNet)](./projects/resnet-classification) |[☝🏻]()|
-| 75 | [Lung Cancer Detection using CNN](./projects/lung-cancer-detection-cnn) |[☝🏻]()|
-| 76 | [Lung Cancer Detection using Transfer Learning](./projects/lung-cancer-detection-transfer) |[☝🏻]()|
-| 77 | [Black and White Image Colorization](./projects/image-colorization) |[☝🏻]()|
-| 78 | [Pneumonia Detection using Deep Learning](./projects/pneumonia-detection) |[☝🏻]()|
-| 79 | [Detecting COVID-19 with Chest X-Ray](./projects/covid19-chest-xray) |[☝🏻]()|
-| 80 | [COVID-19 Detection using CNN](./projects/covid19-detection-cnn) |[☝🏻]()|
-| 81 | [Image Segmentation](./projects/image-segmentation) |[☝🏻]()|
-| 82 | [Ted Talks Recommendation System](./projects/ted-talks-recommendation) |[☝🏻]()|
-| 83 | [Movie Recommender System](./projects/movie-recommender-system) |[☝🏻]()|
-| 84 | [Movie Recommendation based on Emotion](./projects/movie-recommendation-emotion) |[☝🏻]()|
-| 85 | [Music Recommendation System](./projects/music-recommendation-system) |[☝🏻]()|
-| 86 | [Speech Recognition](./projects/speech-recognition) |[☝🏻]()|
-| 87 | [Voice Assistant](./projects/voice-assistant) |[☝🏻]()|
-| 88 | [Next Sentence Prediction](./projects/next-sentence-prediction) |[☝🏻]()|
-| 89 | [Hate Speech Detection](./projects/hate-speech-detection) |[☝🏻]()|
-| 90 | [Fine-tuning BERT for Sentiment Analysis](./projects/bert-sentiment-analysis) |[☝🏻]()|
-| 91 | [Sentiment Classification using BERT](./projects/sentiment-classification-bert) |[☝🏻]()|
-| 92 | [Sentiment Analysis with RNN](./projects/sentiment-analysis-rnn) |[☝🏻]()|
-| 93 | [Autocorrect Feature](./projects/autocorrect-feature) |[☝🏻]()|
-| 94 | [Analysis of Restaurant Reviews](./projects/restaurant-reviews-analysis) |[☝🏻]()|
-| 95 | [Restaurant Review Analysis using NLP & SQLite](./projects/restaurant-review-nlp-sqlite) |[☝🏻]()|
-| 96 | [Intrusion Detection System](./projects/intrusion-detection-system) |[☝🏻]()|
-| 97 | [License Plate Recognition](./projects/license-plate-recognition) |[☝🏻]()|
-| 98 | [Car License Plate Detection & Recognition](./projects/car-license-plate-recognition) |[☝🏻]()|
+| 33 | Flipkart Reviews Sentiment Analysis|[☝🏻]()|
+| 34 | Click-Through Rate Prediction |[☝🏻]()|
+| 35 | Loan Approval Prediction using ML Models |[☝🏻]()|
+| 36 | Loan Eligibility Prediction using SVM |[☝🏻]()|
+| 37 | House Price Prediction |[☝🏻]()|
+| 38 | Boston Housing Prediction |[☝🏻]()|
+| 39 | Employee Management System |[☝🏻]()|
+| 40 | Disease Prediction]|[☝🏻]()|
+| 41 | Heart Disease Prediction using Logistic Regression |[☝🏻]()|
+| 42 | Prediction of Wine Type |[☝🏻]()|
+| 43 | Parkinson’s Disease Prediction |[☝🏻]()|
+| 44 | Breast Cancer Diagnosis using Logistic Regression|[☝🏻]()|
+| 45 | Cancer Cell Classification |[☝🏻]()|
+| 46 | Breast Cancer Diagnosis using KNN |[☝🏻]()|
+| 47 | Autism Prediction |[☝🏻]()|
+| 48 | Medical Insurance Price Prediction |[☝🏻]()|
+| 49 | Skin Cancer Detection |[☝🏻]()|
+| 50 | Heart Disease Prediction using ANN |[☝🏻]()|
+| 51 | Predicting Air Quality Index |[☝🏻]()|
+| 52 | Predicting Air Quality with Neural Networks |[☝🏻]()|
+| 53 | Titanic Survival Prediction |[☝🏻]()|
+| 54 | Wine Quality Prediction |[☝🏻]()|
+| 55 | IPL Score Prediction using Deep Learning |[☝🏻]()|
+| 56 | Calories Burnt Prediction |[☝🏻]()|
+| 57 | Vehicle Count Prediction from Sensor Data |[☝🏻]()|
+| 58 | Ola Bike Ride Request Forecast |[☝🏻]()|
+| 59 | Rainfall Prediction |[☝🏻]()|
+| 60 | Human Scream Detection & Analysis |[☝🏻]()|
+| 61 | Spaceship Titanic Project |[☝🏻]()|
+| 62 | Inventory Demand Forecasting |[☝🏻]()|
+| 63 | Waiter’s Tip Prediction |[☝🏻]()|
+| 64 | Fake News Detection] |[☝🏻]()|
+| 65 | Fake News Detection Model |[☝🏻]()|
+| 66 | Predict Fuel Efficiency |[☝🏻]()|
+| 67 | Multiclass Image Classification |[☝🏻]()|
+| 68 | Image Caption Generator |[☝🏻]()|
+| 69 | Face Mask Detection |[☝🏻]()|
+| 70 | Dog Breed Classification |[☝🏻]()|
+| 71 | Flower Recognition |[☝🏻]()|
+| 72 | Cat & Dog Classification using CNN |[☝🏻]()|
+| 73 | Traffic Signs Recognition |[☝🏻]()|
+| 74 | Residual Networks (ResNet) |[☝🏻]()|
+| 75 | Lung Cancer Detection using CNN |[☝🏻]()|
+| 76 | Lung Cancer Detection using Transfer Learning |[☝🏻]()|
+| 77 | Black and White Image Colorization |[☝🏻]()|
+| 78 | Pneumonia Detection using Deep Learning |[☝🏻]()|
+| 79 | Detecting COVID-19 with Chest X-Ray |[☝🏻]()|
+| 80 | COVID-19 Detection using CNN |[☝🏻]()|
+| 81 | Image Segmentation |[☝🏻]()|
+| 82 | Ted Talks Recommendation System|[☝🏻]()|
+| 83 | Movie Recommender System |[☝🏻]()|
+| 84 | Movie Recommendation based on Emotion |[☝🏻]()|
+| 85 | Music Recommendation System |[☝🏻]()|
+| 86 | Speech Recognition |[☝🏻]()|
+| 87 | Voice Assistant |[☝🏻]()|
+| 88 | Next Sentence Prediction |[☝🏻]()|
+| 89 | Hate Speech Detection |[☝🏻]()|
+| 90 | Fine-tuning BERT for Sentiment Analysis |[☝🏻]()|
+| 91 | Sentiment Classification using BERT |[☝🏻]()|
+| 92 | Sentiment Analysis with RNN |[☝🏻]()|
+| 93 | Autocorrect Feature |[☝🏻]()|
+| 94 | Analysis of Restaurant Review |[☝🏻]()|
+| 95 | Restaurant Review Analysis using NLP & SQLite |[☝🏻]()|
+| 96 | Intrusion Detection System |[☝🏻]()|
+| 97 | License Plate Recognition |[☝🏻]()|
+| 98 | Car License Plate Detection & Recognition |[☝🏻]()|
 | 99 | [Age Detection](./projects/age-detection) |[☝🏻]()|
-| 100 | [Face & Hand Landmarks Detection](./projects/face-hand-landmarks-detection) |[☝🏻]()|
+| 100 | Face & Hand Landmarks Detection |[☝🏻]()|
 | 101 | Human Activity Recognition |[☝🏻]()|
 | 102 | Sequential Model with Abalone Dataset |[☝🏻]()|
 ---
