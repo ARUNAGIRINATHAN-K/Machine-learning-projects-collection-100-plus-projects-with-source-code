@@ -1,7 +1,5 @@
 # 🔄 Customer Churn Analysis Prediction
 
-## 🗓️ Last Updated: 20 Aug, 2025
-
 ## 📌 Overview
 Customer churn refers to the phenomenon where customers discontinue using a company’s services, leading to potential revenue loss. Understanding churn patterns is essential for businesses to improve customer retention and long-term growth. This project leverages the Telco Customer Churn dataset to build a predictive model that identifies customers likely to churn.
 
